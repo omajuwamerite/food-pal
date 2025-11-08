@@ -1,0 +1,27 @@
+# Foodpal
+
+## Overview
+Foodpal is a mobile and web-based app designed to help Nigerians track real-time food prices across different states. It makes food pricing transparent, allowing consumers, traders, and policymakers to stay informed and make better decisions.
+
+## What It Does
+The app collects and displays daily prices for common food items such as rice, beans, and tomatoes. It allows users to compare prices between regions and monitor changes over time.
+
+## Why It Matters
+In Nigeria, food prices change quickly, and reliable information is hard to find. MarketTrackNG solves this by giving users clear, accurate, and updated data to plan their spending and understand market trends.
+
+## Who It’s For
+- Everyday shoppers who want fair prices  
+- Traders and farmers monitoring market trends  
+- Policymakers tracking inflation and food supply  
+
+## Key Features
+- Real-time food price updates  
+- Price comparison by product and location  
+- Data visualization with simple charts  
+- Alerts for significant price changes  
+
+## Technologies
+- Frontend: React (or Flutter for mobile)
+- Backend: Node.js + Express
+- Database: MongoDB (cloud-hosted)
+- Hosting: Render or Netlify
